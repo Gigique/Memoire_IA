@@ -1,0 +1,21 @@
+# Environnement virtuel
+.venv/
+
+# Fichiers temporaires de Jupyter
+.ipynb_checkpoints/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+
+# Mac et autres systèmes
+.DS_Store
+
+# Fichiers système de VSCode
+.vscode/
+
+# Données lourdes (optionnel)
+data/
+*.xls
+*.xlsx
+*.csv
